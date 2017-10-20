@@ -707,12 +707,12 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=wI8FlKjBm5A",
+                "videoUrl": "https://www.youtube.com/watch?v=IXN2WcNEiEE",
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
@@ -724,7 +724,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/coin2-1199x480.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
